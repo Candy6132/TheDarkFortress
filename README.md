@@ -14,6 +14,7 @@ Rampant Arsenal
 AAI Programmable Vehicles
 AAI Programmable Structures
 AAI Signals
+AAI Zones
 AAI Vehicles: Laser Tank
 AAI Vehicles: Flame Tank
 AAI Vehicles: Chaingunner

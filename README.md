@@ -42,3 +42,4 @@ You should expect some UPS drops due to large base, frequent biter attacks and A
 The number of tanks attacking you tends to be quite random. There can be 3 tanks instead of 1.
 Flame Tanks are not properly spawning at this point. I'm working on fixing it.
 The Fortress doesn't send attack waves sometimes. It happens especially if you reset the fog of war for your player, or you don't use the AAI remote (Y button).
+AAI Vehicles doesn't trigger land mines for the most of the time (as of 0.7.9 ver. of AAI Programmable Vehicles).

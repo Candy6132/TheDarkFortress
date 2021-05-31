@@ -10,14 +10,25 @@ As one of the survivors, you've just found a planet that should have enough reso
 REQUIREMENTS
 
 This map can be downloaded only by the host. The rest of the players doesn't have to download anything except the required mods:
+
 Rampant Arsenal
+
 AAI Programmable Vehicles
+
 AAI Programmable Structures
+
 AAI Signals
+
 AAI Zones
+
+AAI Vehicles: Miner
+
 AAI Vehicles: Laser Tank
+
 AAI Vehicles: Flame Tank
+
 AAI Vehicles: Chaingunner
+
 
 HOW IT WORKS
 

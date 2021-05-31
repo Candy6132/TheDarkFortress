@@ -5,3 +5,4 @@ CHANGES:
 2. Added destroyed Car with military equipment nearby the starting location.
 3. Added damaged tank near the starting location.
 4. Starter resources are now richer.
+5. AAI Miner is now required by the scenario if you want to have them in the wrecked ship.

@@ -2,6 +2,6 @@ CHANGES:
 
 31.05.2021
 1. Fixed first wave - the attack starts after 20-30 minutes with 1 AI Car, instead of 3 tanks.
-2. Added destroyed Hauler with mines nearby the starting location.
-3. Added amaged tank near the starting location.
+2. Added destroyed Car with military equipment nearby the starting location.
+3. Added damaged tank near the starting location.
 4. Starter resources are now richer.

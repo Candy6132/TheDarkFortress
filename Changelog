@@ -1,5 +1,11 @@
 CHANGES:
 
+10.06.2021
+1. All tech for the Fortress is now researched and active
+2. Fixed no steel smelting for the Fortress
+3. Construction robots are now rebuiling destroyed structures
+4. Added new rocket launchers and small artillery to cover some weak points in the deffence.
+
 31.05.2021
 1. Fixed first wave - the attack starts after 20-30 minutes with 1 AI Car, instead of 3 tanks.
 2. Added destroyed Car with military equipment nearby the starting location.
